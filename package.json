@@ -1,0 +1,24 @@
+{
+  "name": "the-sorting-hat-devpool",
+  "version": "1.0.0",
+  "description": "สร้างหมวกคัดสรรบ้านพ่อมด",
+  "main": "index.js",
+  "scripts": {
+    "start": "node",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arigatopix/the-sorting-hat-devpool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arigatopix/the-sorting-hat-devpool/issues"
+  },
+  "homepage": "https://github.com/arigatopix/the-sorting-hat-devpool#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
